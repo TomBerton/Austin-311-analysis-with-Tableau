@@ -11,6 +11,22 @@
 ### New Visualization. 
 The [Austin 311 Analysis with Tableau](https://public.tableau.com/views/Austin311CallAnalysis2014-2016/Austin311CallAnalysisbyZipCode2014-2016?:embed=y&:display_count=yes&publish=yes) was created using Tableau using the data sets and data cleaning done in the [Austin 311 Analysis](https://github.com/TomBerton/Austin_311_analysis).
 
+-----
+#### Choropleth map for total number of 311 calls by Zip code. 
 
+<p align="center"> 
+  <img src="https://github.com/TomBerton/Austin-311-analysis-with-Tableau/blob/master/images/Choropleth_map.png" width="900"/>
+ </p>
 
+#### Bar graph by Zip Code for the total number of 311 calls. 
+Filtering can be done for year, month, Austin City Department and type of complaint. 
+<p align="center"> 
+  <img src="https://github.com/TomBerton/Austin-311-analysis-with-Tableau/blob/master/images/Zip_total_bar.png" width="900"/>
+ </p>
+ 
+ #### Bar graph for multiple fields for the total number of 311 calls.
+ Filtering can be done for year, month, Austin City Department and type of complaint.
   
+<p align="center"> 
+  <img src="https://github.com/TomBerton/Austin-311-analysis-with-Tableau/blob/master/images/Zip_totals_dept_type.png" width="900"/>
+ </p>
